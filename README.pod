@@ -8,7 +8,7 @@ Dancer2::Serializer::CBOR - CBOR serializer for Dancer2
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 SYNOPSIS
 
